@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    background-color: ;
+}
+header, nav, main {
+    width: 70%;
+    margin: auto;
+}
+.element {
+    background-color: skyblue;
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid black;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 50px;
+}
+.one {
+    padding: 200px 150px;
+    height: 450px;
+    font-size: 20px;
+    border: 1px solid black;
+    position: relative;
+}
+.two {
+    background-color: white;
+    text-align: center;
+    padding-top: 200px;
+    height: 600px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+.box {
+    height: 700px;
+    width: 1000px;
+    border: 1px solid black;
+position: absolute;
+   right: 0;
+}
+.twodark {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    height: 600px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+.vanishone {
+   padding: 200px 150px;
+    height: 450px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+.vanishtwo {
+    background-color: skyblue;
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 50px;
+}
+.vanishtwoclick {
+    background-color: dodgerblue;
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid black;
+    text-align: left;
+    font-size: 50px;
+}
+.sunsetone {
+    background-color: peru;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-size: 50px;
+}
+.sunsettwo {
+    background-color: goldenrod;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-size: 50px;
+}
+
+.lastone {
+    padding: 200px 150px;
+    height: 450px;
+    font-size: 20px;
+    border-top: 4px solid black;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+}
